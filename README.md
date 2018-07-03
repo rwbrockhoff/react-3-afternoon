@@ -34,9 +34,6 @@ In this step, we'll use `axios` to fetch `posts` from the API and render them on
 
 ### Instructions
 
-* Add `axios` to the project using `npm install --save axios`.
-* Open `./src/components/App.js`.
-* Import `axios` into the component.
 * Use `axios` and the API documentation to fetch `posts` in the `componentDidMount` method.
   * Set the `posts` array returned from the API onto `posts` on `state`.
 * Import the `Post` component.
